@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "First release of ODIN TV Premium Player.",
-  "pub_date": "2026-07-20T21:00:00Z",
+  "version": "0.2.0",
+  "notes": "ODIN TV release v0.2.0",
+  "pub_date": "2026-07-20T21:34:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/AhmeddSaid/odin-tv/releases/download/v0.1.0/ODIN%20TV_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb1V3dGh4Wm1CQjFCU2VnNzEyakpKZEo0blJjK3YwMm5ycXE5aEtOa1Y3N0JOTUUwZVBuQ1FFZDBzbGdvNXFTcVo3WmJCamxuZ3NUT2VsMnlzS3RPWW1EY0xlTTFGamc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTgzMjg0CWZpbGU6T0RJTiBUVl8wLjIuMF94NjQtc2V0dXAuZXhlCjRmNm5HV2Q3TEVVSEdRUEhEYldrcnArVFpJV1pqSmlRYythL1pERklWNTlhNnJnMTFsQkI4ZFR6Ukd3OGJXcnpqbWxnMmt5dGxHYU94ZExIaXR0MUFBPT0K",
+      "url": "https://github.com/AhmeddSaid/odin-tv/releases/download/v0.2.0/ODIN%20TV_0.2.0_x64-setup.exe"
     }
   }
 }
