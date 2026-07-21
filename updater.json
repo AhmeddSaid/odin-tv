@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "ODIN TV release v0.3.4",
-  "pub_date": "2026-07-21T14:25:07Z",
+  "version": "0.3.5",
+  "notes": "ODIN TV release v0.3.5",
+  "pub_date": "2026-07-21T16:07:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb1V3dGh4Wm1CQjRSUktjYnYvdFVCa1g4WXgvZGJtRTkvYjhqZ0lBYkIzUUFUVXNJU1cvbWdlMzBDVllBaC9oWnV4TkRUeFNhdVVtY2V2c1ZYMDlQMEZ2bmIzd3Q5L2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQzOTAxCWZpbGU6T0RJTiBUVl8wLjMuNF94NjQtc2V0dXAuZXhlCmZWVFBLQlAxQnBEWm4zQTgxaGVCSTA1eDZPV2ZXWlpUWFp6Zzc3ZDIwWmFyUHo5T055VWpUQ1R5RHBUSGdvUjFsV29wRnBESHU3alNrWFVTZ3lpMkN3PT0K",
-      "url": "https://github.com/AhmeddSaid/odin-tv/releases/download/v0.3.4/ODIN.TV_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb1V3dGh4Wm1CQjNYR2UrQy83bmJINUdzd1h6YUljcmdvZVpSOXE4OHA0WkJyS0tOWldkVnJRdnJpdjVmMS91SFB0Q00zMmgzK0N2V1hQVGZWYUNWbng5ZDlrNnpjZXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjUwMDE5CWZpbGU6T0RJTiBUVl8wLjMuNV94NjQtc2V0dXAuZXhlClBtQmZNVlVkQ0FpR3ZabjF2amttN0ZlWER3OUR4bHl2d3NZQ04xMW8vL0xaNEI5WkYzQWlBbVVBdVBlREl1UmZvYlYxb3lsams2WVZremJpWGI4TEJ3PT0K",
+      "url": "https://github.com/AhmeddSaid/odin-tv/releases/download/v0.3.5/ODIN.TV_0.3.5_x64-setup.exe"
     }
   }
 }
